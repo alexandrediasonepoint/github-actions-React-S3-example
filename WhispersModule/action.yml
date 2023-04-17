@@ -1,0 +1,5 @@
+name: "Whispers"
+description: 'Simple whispers checking for no leaked secrets'
+runs:
+  using: docker
+  image: Dockerfile
